@@ -10,7 +10,5 @@
     </div>
     <button class="btn btn-primary btn-block" type="submit">Sign In</button>
     <a href="registration.php" class="btn btn-secondary btn-block">Register</a>
-
 </form>
-
 <hr>
