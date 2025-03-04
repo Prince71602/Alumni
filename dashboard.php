@@ -6,6 +6,6 @@
     <title>Alumni Dashboard</title>
 </head>
 <body>
-    Hello World, Gwapo si alngog i,m so pogi
+    Hello World, Gwapo si alngog i,m so pogis
 </body>
 </html>
