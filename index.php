@@ -29,7 +29,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            background: url('/Alumni/repository/image/background.jpg') no-repeat center center fixed;
+            background: url('/repository/image/background.jpg') no-repeat center center fixed;
             background-size: cover;
             position: relative;
             padding: 1.5rem 0;
@@ -217,7 +217,7 @@
     <div class="progress-bar"></div>
     <div class="login-container">
         <div class="logo">
-            <img src="\Alumni\repository\image\logo.png" alt="UM Logo">
+            <img src="\repository\image\logo.png" alt="UM Logo">
             <div class="portal-name">Alumni Portal</div>
         </div>
 
