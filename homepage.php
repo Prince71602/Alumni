@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Alumni Dashboard</title>
+    <title>Home Page</title>
 </head>
 <body>
-    Hello World, Gwapo si alngog i,m so pogis
 </body>
 </html>
